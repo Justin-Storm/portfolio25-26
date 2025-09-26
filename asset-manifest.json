@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio25-26/static/css/main.fa4649aa.css",
-    "main.js": "/portfolio25-26/static/js/main.2b7f3c67.js",
+    "main.js": "/portfolio25-26/static/js/main.1be03a2b.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio25-26/static/js/453.ad7768ec.chunk.js",
     "static/media/jroxlogo.jpg": "/portfolio25-26/static/media/jroxlogo.27ad9449faefc905eb56.jpg",
     "index.html": "/portfolio25-26/index.html",
     "main.fa4649aa.css.map": "/portfolio25-26/static/css/main.fa4649aa.css.map",
-    "main.2b7f3c67.js.map": "/portfolio25-26/static/js/main.2b7f3c67.js.map",
+    "main.1be03a2b.js.map": "/portfolio25-26/static/js/main.1be03a2b.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio25-26/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa4649aa.css",
-    "static/js/main.2b7f3c67.js"
+    "static/js/main.1be03a2b.js"
   ]
 }
