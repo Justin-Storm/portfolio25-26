@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio25-26/static/css/main.52c13efe.css",
-    "main.js": "/portfolio25-26/static/js/main.7bb35528.js",
+    "main.css": "/portfolio25-26/static/css/main.98f23c53.css",
+    "main.js": "/portfolio25-26/static/js/main.39d21b2a.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio25-26/static/js/453.ad7768ec.chunk.js",
     "static/media/crest.jpg": "/portfolio25-26/static/media/crest.266a25aaf6f0337f195f.jpg",
     "static/media/sky.png": "/portfolio25-26/static/media/sky.f58ac07c9fba4e0c2583.png",
     "static/media/sqaures.png": "/portfolio25-26/static/media/sqaures.cafaf1ad38b612fa856d.png",
+    "static/media/BestList-logo.png": "/portfolio25-26/static/media/BestList-logo.dbb433cd6d4f953740e7.png",
     "static/media/fths.png": "/portfolio25-26/static/media/fths.6f937ae87ad9a2f4c74e.png",
+    "static/media/reactLogo.png": "/portfolio25-26/static/media/reactLogo.8cf15fe9a546ffb69e65.png",
+    "static/media/reactNativeExpo.png": "/portfolio25-26/static/media/reactNativeExpo.af630f0ff0ee9977fc1a.png",
     "static/media/jroxlogo.jpg": "/portfolio25-26/static/media/jroxlogo.27ad9449faefc905eb56.jpg",
     "index.html": "/portfolio25-26/index.html",
-    "main.52c13efe.css.map": "/portfolio25-26/static/css/main.52c13efe.css.map",
-    "main.7bb35528.js.map": "/portfolio25-26/static/js/main.7bb35528.js.map",
+    "main.98f23c53.css.map": "/portfolio25-26/static/css/main.98f23c53.css.map",
+    "main.39d21b2a.js.map": "/portfolio25-26/static/js/main.39d21b2a.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio25-26/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52c13efe.css",
-    "static/js/main.7bb35528.js"
+    "static/css/main.98f23c53.css",
+    "static/js/main.39d21b2a.js"
   ]
 }
