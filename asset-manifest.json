@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio25-26/static/css/main.ff05b13a.css",
-    "main.js": "/portfolio25-26/static/js/main.ecc64566.js",
+    "main.css": "/portfolio25-26/static/css/main.4687aee5.css",
+    "main.js": "/portfolio25-26/static/js/main.27ed318e.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio25-26/static/js/453.ad7768ec.chunk.js",
     "static/media/nextwavexr.png": "/portfolio25-26/static/media/nextwavexr.f80320dac82c5397b2b7.png",
     "static/media/crest.jpg": "/portfolio25-26/static/media/crest.266a25aaf6f0337f195f.jpg",
@@ -13,12 +13,12 @@
     "static/media/reactNativeExpo.png": "/portfolio25-26/static/media/reactNativeExpo.af630f0ff0ee9977fc1a.png",
     "static/media/jroxlogo.jpg": "/portfolio25-26/static/media/jroxlogo.27ad9449faefc905eb56.jpg",
     "index.html": "/portfolio25-26/index.html",
-    "main.ff05b13a.css.map": "/portfolio25-26/static/css/main.ff05b13a.css.map",
-    "main.ecc64566.js.map": "/portfolio25-26/static/js/main.ecc64566.js.map",
+    "main.4687aee5.css.map": "/portfolio25-26/static/css/main.4687aee5.css.map",
+    "main.27ed318e.js.map": "/portfolio25-26/static/js/main.27ed318e.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio25-26/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff05b13a.css",
-    "static/js/main.ecc64566.js"
+    "static/css/main.4687aee5.css",
+    "static/js/main.27ed318e.js"
   ]
 }
